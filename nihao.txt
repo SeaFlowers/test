@@ -1,2 +1,7 @@
 nihao
+<<<<<<< HEAD
 11111 master modify
+=======
+master modify
+222222 home-wk modify
+>>>>>>> home-wk
